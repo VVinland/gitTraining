@@ -6,11 +6,15 @@ const App = () => {
   const add = ()=>{
     setState(state+1)
   }
+  
+  const down = ()=>{
+    setState(state-1);
+  }
 
   return (
     <div className="App">
       <button onClick={add}>
-      {state}
+        {state}
       </button>
     </div>
   );
