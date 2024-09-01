@@ -19,7 +19,6 @@ const App = () => {
       <button onCLick={down}>
         {'Удалить -1'}
       </button>
-      {state}
       <h1>{state}</h1>
       <h1>{state}</h1>
       <h1>{state}</h1>
