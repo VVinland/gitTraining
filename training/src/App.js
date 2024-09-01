@@ -6,6 +6,7 @@ const App = () => {
   const add = ()=>{
     setState(state+1)
   }
+
   return (
     <div className="App">
       <button onClick={add}>
