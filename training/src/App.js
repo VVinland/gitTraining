@@ -20,6 +20,10 @@ const App = () => {
         {'Удалить -1'}
       </button>
       {state}
+      {state}{state}
+      {state}{state}
+      {state}{state}
+      {state}{state}
       {state}
     </div>
   );
