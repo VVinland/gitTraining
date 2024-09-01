@@ -25,7 +25,6 @@ const App = () => {
       <h1>{state}</h1>
       <h1>{state}</h1>
       <h1>{state}</h1>
-      <h1>{state}</h1>
     </div>
   );
 }
