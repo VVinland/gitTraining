@@ -21,14 +21,11 @@ const App = () => {
       </button>
       {state}
       <h1>{state}</h1>
-      <div>{state}</div>
-      <h2>{state}</h2>
-      <h3>{state}</h3>
-      {state}{state}
-      {state}{state}
-      {state}{state}
-      {state}{state}
-      {state}
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
     </div>
   );
 }
