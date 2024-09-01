@@ -20,6 +20,11 @@ const App = () => {
         {'Удалить -1'}
       </button>
       <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
+      <h1>{state}</h1>
     </div>
   );
 }
