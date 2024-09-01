@@ -16,6 +16,9 @@ const App = () => {
       <button onClick={add}>
         {'Добваить +1'}
       </button>
+      <button onCLick={down}>
+        {'Удалить -1'}
+      </button>
     </div>
   );
 }
