@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div className="App">
       <button onClick={add}>
-        {'dasdsadsa'}
+        {'Добваить +1'}
       </button>
     </div>
   );
