@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div className="App">
       <button onClick={add}>
-        {state}
+        {'dasdsadsa'}
       </button>
     </div>
   );
