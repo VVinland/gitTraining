@@ -24,6 +24,11 @@ const App = () => {
       <div>{state}</div>
       <h2>{state}</h2>
       <h3>{state}</h3>
+      {state}{state}
+      {state}{state}
+      {state}{state}
+      {state}{state}
+      {state}
     </div>
   );
 }
