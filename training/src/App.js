@@ -1,9 +1,16 @@
-
+import {useState} from 'react';
 
 const App = () => {
+  const [state, setState] = useState();
+
+  const add = ()=>{
+    setState(state+1);
+  }
   return (
     <div className="App">
-      {'Hello bro!'}
+      <button onClick={add}>
+      {state}
+      </button>
     </div>
   );
 }
